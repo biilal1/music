@@ -32,7 +32,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "ضـع جلسة البايروجرام احصل عليها من هنا @SessionStringGeneratorZBot",
+        "description": "ضـع جلسة البايروجرام احصل عليها من هنا @fza8bot",
         "value": "",
         "required": true
       },
